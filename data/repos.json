@@ -1150,5 +1150,50 @@
     "stars": 29,
     "org": "ios-xr",
     "orgUrl": "https://github.com/ios-xr"
+  },
+  {
+    "title": "csap-core",
+    "desc": "Core CSAP services",
+    "githubUrl": "https://github.com/csap-platform/csap-core",
+    "forks": 4,
+    "stars": 0,
+    "org": "csap-platform",
+    "orgUrl": "https://github.com/csap-platform"
+  },
+  {
+    "title": "csap-starter",
+    "desc": "Spring boot starter and reference projects.",
+    "githubUrl": "https://github.com/csap-platform/csap-starter",
+    "forks": 3,
+    "stars": 0,
+    "org": "csap-platform",
+    "orgUrl": "https://github.com/csap-platform"
+  },
+  {
+    "title": "csap-java",
+    "desc": "Java code samples",
+    "githubUrl": "https://github.com/csap-platform/csap-java",
+    "forks": 2,
+    "stars": 0,
+    "org": "csap-platform",
+    "orgUrl": "https://github.com/csap-platform"
+  },
+  {
+    "title": "csap-packages",
+    "desc": "CSAP open source packages provide 1 click deploy, configure, monitor, and manage of any technology.",
+    "githubUrl": "https://github.com/csap-platform/csap-packages",
+    "forks": 2,
+    "stars": 0,
+    "org": "csap-platform",
+    "orgUrl": "https://github.com/csap-platform"
+  },
+  {
+    "title": "csap-event-service",
+    "desc": "CSAP event services provide both management activity (who did what, when) and performance activity (cpu used, load, message latency, ...)",
+    "githubUrl": "https://github.com/csap-platform/csap-event-service",
+    "forks": 2,
+    "stars": 0,
+    "org": "csap-platform",
+    "orgUrl": "https://github.com/csap-platform"
   }
 ]
